@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Janek Test</string>
+    <string name="Instructions">När du trycker på start kommer det komma upp ett pussel du måste lösa för att desarmera bomben</string>
+    <string name="start">Start</string>
+    <string name="start_Instructions">Tryck på start för att forsätta.</string>
+    <string name="cornRiddle">Du kastar skalet, äter insidan och kastar iväg insidan. Vad är jag?</string>
+    <string name="answer">Svar</string>
+    <string name="penRiddle">Hur kan du kasta en penna på golvet så ingen kan hoppa över den?</string>
+    <string name="answer_button">Svara</string>
+    <string name="sec_explode">Bomben sprängs om:</string>
+</resources>
